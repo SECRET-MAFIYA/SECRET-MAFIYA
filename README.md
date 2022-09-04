@@ -3,7 +3,8 @@ pkg install python
 pkg install python3
 pkg install git 
 pip install requests
-
+git colone https://github.com/SECRET-MAFIYA/SECRET-MAFIYA.git
+python3 SECRET-MAFIYA.py
 
 
 
