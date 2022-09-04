@@ -1,4 +1,18 @@
-### Hi there 👋
+apt update && apt upgrade 
+pkg install python
+pkg install python3
+pkg install git 
+pip install requests
+
+
+
+
+
+
+
+
+
+## Hi there 👋
 
 <!--
 **SECRET-MAFIYA/SECRET-MAFIYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
