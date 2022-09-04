@@ -42,7 +42,7 @@ pip install requests
 
 
 
-git colone https://github.com/SECRET-MAFIYA/SECRET-MAFIYA.git
+git clone https://github.com/SECRET-MAFIYA/SECRET-MAFIYA.git
 
 
 
